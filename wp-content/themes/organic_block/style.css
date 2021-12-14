@@ -139,7 +139,7 @@ a img {
 	margin: 0px;
 	}
 #header #title a {
-	background: url(/wp-content/themes/organic_block/images/logo.png) no-repeat;
+	background: url("images/logo.png") no-repeat;
 	float: left;
 	display: block;
 	width: 190px; 
@@ -318,7 +318,7 @@ ul.ot-menu li li li.sfHover ul {
 	height:	10px;
 	text-indent: -999em;
 	overflow: hidden;
-	background:	url(/wp-content/themes/organic_block/images/arrows-ffffff.png) no-repeat -10px -100px; /* 8-bit indexed alpha png. IE6 gets solid image only */
+	background:	url("images/arrows-ffffff.png") no-repeat -10px -100px; /* 8-bit indexed alpha png. IE6 gets solid image only */
 	}
 a > .sf-sub-indicator {  /* give all except IE6 the correct values */
 	top: 28px;
@@ -383,7 +383,7 @@ li.sfHover > a > .sf-sub-indicator {
 	display: block;
 	width: 29px;
 	height: 30px;
-	background: #222222 url(/wp-content/themes/organic_block/images/twitter_icon.png) no-repeat;
+	background: #222222 url("images/twitter_icon.png") no-repeat;
 	margin: 0px;
 	padding: 0px;
 	text-indent: -9999px;
@@ -652,7 +652,7 @@ li.sfHover > a > .sf-sub-indicator {
 #prev_btn a img {
 	float: left;
 	display: block;
-	background: #222222 url(/wp-content/themes/organic_block/images/prev_btn.png) no-repeat;
+	background: #222222 url("images/prev_btn.png") no-repeat;
 	margin: 0px 1px 0px 0px;
 	padding: 0px;
 	width: 29px;
@@ -667,7 +667,7 @@ li.sfHover > a > .sf-sub-indicator {
 #next_btn a img {
 	float: right;
 	display: block;
-	background: #222222 url(/wp-content/themes/organic_block/images/next_btn.png) no-repeat;
+	background: #222222 url("images/next_btn.png") no-repeat;
 	margin: 0px 0px 0px 0px;
 	padding: 0px;
 	width: 29px;
